@@ -6,7 +6,3 @@ Camera Management: Easily register, update, and categorize CCTV cameras by locat
 Live Stream Integration: Support for RTSP, HLS, or WebRTC streaming protocols.
 
 Health Monitoring: Automated uptime, ping, and latency tracking for connected hardware.
-
-Motion & Event Detection: Webhook triggers for security alerts and movement logs.
-
-Role-Based Access Control (RBAC): Secure authentication for Admins, Operators, and Viewers.
