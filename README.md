@@ -37,3 +37,9 @@ A centralized and scalable RESTful API designed to monitor CCTV systems across m
 ## 🎯 Purpose
 
 The primary purpose of this system is to provide centralized monitoring of CCTV infrastructure across all store locations. It enables IT and security teams to quickly verify camera availability, review collage snapshots of camera channels, monitor recording retention periods, and identify recording gaps to ensure continuous and reliable surveillance coverage.
+
+
+
+## Installation
+
+npm install express sharp digest-fetch dotenv xml2js
